@@ -1,0 +1,6 @@
+C:\Alex\a\ATP_TP1\ATP_TP1\bin\Debug\ATP_TP1.exe.config
+C:\Alex\a\ATP_TP1\ATP_TP1\bin\Debug\ATP_TP1.exe
+C:\Alex\a\ATP_TP1\ATP_TP1\bin\Debug\ATP_TP1.pdb
+C:\Alex\a\ATP_TP1\ATP_TP1\obj\Debug\ATP_TP1.csprojResolveAssemblyReference.cache
+C:\Alex\a\ATP_TP1\ATP_TP1\obj\Debug\ATP_TP1.exe
+C:\Alex\a\ATP_TP1\ATP_TP1\obj\Debug\ATP_TP1.pdb
