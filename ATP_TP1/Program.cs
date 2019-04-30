@@ -15,7 +15,7 @@ namespace ATP_TP1
 
             while (op != 7)
             {
-                Console.WriteLine("Pontifícia Universidade Católica - São Gabriel\nAlgoritmos e Técnicas de Programação\nIsrael Souza Zanandres\n\n");
+                Console.WriteLine("Pontifícia Universidade Católica - São Gabriel\nAlgoritmos e Técnicas de Programação\nAlex Junio Rodrigues\n\n");
                 Console.WriteLine("Pressione:\n\t1 DEC->HEX\n\t2 HEX->DEC\n\t3 DEC->BIN\n\t4 BIN->DEC\n\t5 DEC->OCT\n\t6 OCT->DEC\n\t7 para sair andando");
                 op = int.Parse(Console.ReadLine());
                 int valor = 0;
